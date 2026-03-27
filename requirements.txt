@@ -1,3 +1,2 @@
-opencv-python-headless
-pytesseract
-numpy
+google-generativeai
+pillow
